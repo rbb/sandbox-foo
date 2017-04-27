@@ -16,6 +16,8 @@ This is just a test, to see if the MATHML stuff works
 
 $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 
+**Note**: To get this to work, you have to update your PITCHME.yaml with a `mathjax :` line
+
 ---
 
 # Links
