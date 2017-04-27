@@ -17,3 +17,10 @@ This is just a test, to see if the MATHML stuff works
 $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 
 ---
+
+# Links
+
+To get things to work, you have your PITCHME.md in github, etc, and then publish a gitpitch link:
+
+- Example GitHub link: https://github.com/rbb/sandbox-foo/blob/master/PITCHME.md
+- Corresponding GitPitch link:https://gitpitch.com/rbb/sandbox-foo 
