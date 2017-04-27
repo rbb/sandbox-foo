@@ -7,4 +7,4 @@ things, experiement. Don't worry about corrupting the repo or breaking anything.
 If you are not sure how to do something with git, give it a try here before
 doing it in a repo that has any real impact.
 
-Link to GitPitch: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/rbb/sandbox-foo/master?grs=github&t=white) 
+Link to GitPitch: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/rbb/sandbox-foo/master) 
